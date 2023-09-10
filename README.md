@@ -54,7 +54,4 @@ To compile and run the code, follow these steps:
 
 Make sure to replace `partb_1_20CS10027_20CS10028.ko` with the correct kernel module file and `f1` with the appropriate test file name when necessary.
 
-Feel free to reach out if you have any questions or encounter any issues.
 ```
-
-Simply save this content in a file named `README.md` in your project directory.
